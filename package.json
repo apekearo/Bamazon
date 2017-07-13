@@ -1,0 +1,31 @@
+{
+"name": "bamazon",
+"version": "1.0.0",
+"description": "homework week 12 - mysql and node application.  customers place product orders.  Inventory is updated and reports created for managers and supervisors",
+"main": "bamazonCustomer.js",
+"dependencies": {
+"cli-table": "^0.3.1",
+"colors": "^1.1.2",
+"inquirer": "^3.1.1",
+"mysql": "^2.13.0"
+},
+"devDependencies": {},
+"scripts": {
+"test": "echo \"Error: no test specified\" && exit 1"
+},
+"repository": {
+"type": "git",
+"url": "git+https://github.com/apekearo/Bamazon.git"
+},
+"keywords": [
+"mysql",
+"node",
+"bamazon"
+],
+"author": "anthonyPekearo",
+"license": "ISC",
+"bugs": {
+"url": "https://github.com/apekearo/Bamazon/issues"
+},
+"homepage": "https://github.com/apekearo/Bamazon#readme"
+}
